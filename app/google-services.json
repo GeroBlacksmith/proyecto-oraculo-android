@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "136553807035",
+    "firebase_url": "https://proyecto-oraculo.firebaseio.com",
+    "project_id": "proyecto-oraculo",
+    "storage_bucket": "proyecto-oraculo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136553807035:android:d4cd4192b8cb341c",
+        "android_client_info": {
+          "package_name": "com.example.gero.proyectooraculo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136553807035-r1melal8hld58ha97qfarh5pppg0pvu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gero.proyectooraculo",
+            "certificate_hash": "00CA41761B928F29017698F06ED73E69FF002B0B"
+          }
+        },
+        {
+          "client_id": "136553807035-r672j61ahinb6tsdfrikgkk8usgkmba4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPEoLm5Y4ovv5rYOtC30UspyHdrCJ_UZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136553807035-r672j61ahinb6tsdfrikgkk8usgkmba4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
