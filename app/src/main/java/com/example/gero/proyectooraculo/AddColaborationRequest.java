@@ -12,7 +12,7 @@ import java.util.Map;
 
 public class AddColaborationRequest extends StringRequest {
 
-    private static final String LOGIN_REQUEST_URL = "http://192.168.0.10/oraculo/android/POST/colaboracion.php";
+    private static final String LOGIN_REQUEST_URL = "ADD_DOMAIN/oraculo/android/POST/colaboracion.php";
     private Map<String, String> params;
 
     /**
